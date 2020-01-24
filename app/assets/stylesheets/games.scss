@@ -4,6 +4,7 @@
 
 .letters {
   display: flex ;
+  text-align: center;
 
 }
 
@@ -23,4 +24,14 @@
 
 h1 {
   font-family: Arial;
+}
+
+.form {
+  font-family: Arial;
+  font-size: 50px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 30px;
 }
